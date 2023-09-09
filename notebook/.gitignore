@@ -1,0 +1,9 @@
+.env
+/env/
+▸ .env
+__pycache__/
+├── __init__.cpython-38.pyc
+└── __pycache__.python-38.pyc
+../.idea/
+../env/
+
